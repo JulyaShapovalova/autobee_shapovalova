@@ -1,0 +1,10 @@
+allure-pytest==2.13.2
+phonenumbers==8.13.26
+playwright==1.40.0
+pymorphy2==0.9.1
+pytest==7.4.3
+pytest-dotenv==0.5.2
+pytest-playwright==0.4.3
+pytest-xdist==3.5.0
+python-dateutil==2.8.2
+python-dotenv==1.0.0
